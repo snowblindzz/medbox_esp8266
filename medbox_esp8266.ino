@@ -31,7 +31,7 @@
 
 // ---------- CONFIG ----------
 const char* WIFI_SSID = "Airtel_amar_9194";
-const char* WIFI_PASS = "Air@22509";
+const char* WIFI_PASS = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 const char* HOSTNAME  = "medbox";            // http://medbox.local
 
 const long  GMT_OFFSET_SEC = 19800;          // India (UTC+5:30)
